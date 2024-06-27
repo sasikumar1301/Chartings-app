@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chartings-app/static/css/main.44fbf5b8.css",
+    "main.js": "/Chartings-app/static/js/main.513a6930.js",
+    "static/js/453.dedc7fed.chunk.js": "/Chartings-app/static/js/453.dedc7fed.chunk.js",
+    "index.html": "/Chartings-app/index.html",
+    "main.44fbf5b8.css.map": "/Chartings-app/static/css/main.44fbf5b8.css.map",
+    "main.513a6930.js.map": "/Chartings-app/static/js/main.513a6930.js.map",
+    "453.dedc7fed.chunk.js.map": "/Chartings-app/static/js/453.dedc7fed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44fbf5b8.css",
+    "static/js/main.513a6930.js"
+  ]
+}
